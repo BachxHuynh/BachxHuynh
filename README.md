@@ -1,10 +1,11 @@
+<!DOCTYPE html>
 <head>
   <h1>Hello my name is Bach Huynh<h1/>
 <head/> 
  
 <body>
   <p>I’m currently learning html and CSS<p/>
-  <p>Contact me at <a>m.me/BachHuynh6969<a/>
+  <p>Contact me at <a>www.facebook.com/BachHuynh6969<a/><p/>
 <body/>
 <!---
 BachxHuynh/BachxHuynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
