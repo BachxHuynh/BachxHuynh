@@ -4,7 +4,7 @@
 <head/> 
  
 <body>
-  <p>I’m currently learning html and CSS<p/>
+  <p>hmm<p/>
   <p>Contact me at <a>www.facebook.com/BachHuynh6969<a/><p/>
 <body/>
 <!---
